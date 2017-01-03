@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
+### Day 1: January 3, 2017
 
-### Day 0: February 30, 2016 (Example 1)
+**Today's Progress**: Commenced working on the Free Code Camp Random Quote Machine Project. Made a local folder and set up the skeletons for my html, css, and js files, as well as a text file containing the quotes I want to use. Began learning to use GitHub markdown so that I can keep this log.
+
+**Thoughts:** I decided to work on this project locally, using Atom, then upload it to CodePen once it is finished. However, if I'm going to do that, I suppose I need to set up a blog so that I can better share my progress, as I will not have any live files to link to until the end. For now, I'm linking to the FCC instruction page.
+
+**Link to work:** [Free Code Camp - Build a Random Quote Machine](https://www.freecodecamp.com/challenges/build-a-random-quote-machine)
+
+
+
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +36,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
