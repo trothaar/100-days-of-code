@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 5, 2017
+
+**Today's Progress**: I spent some time making the world's simplest random code generator look a little nicer by editing the CSS. Among other edits, I:
+
+* Added a body onload() so that the page displays an initial random quote upon load.
+* Added a background image, which I'll likely change, because the current one may look a little too much like something you'd have seen on an ugly-ass 90s-era Geocities site.
+* Replaced the Bootstrap Jumbotron class with a page header and a well to hold the quote.
+* Centered the well on the page and made the quote text bigger.
+
+I also added a Twitter icon, but it doesn't currently do anything.
+
+**Thoughts:** I spent some time looking at other students' quote machines and figuring out how I wanted mine to look. I finally decided on a style that was a mash-up between [the original FCC model](https://codepen.io/FreeCodeCamp/full/ONjoLe/) and [the Epiphany Clock](http://codepen.io/sok213/full/NqJYzb/). I think I might like to add the date and time at the top, but first, I need to get the Twitter button working so that users can Tweet out the quote.
+
+Finally, I reviewed the difference between a CSS class and a CSS id.
+
+**Link to work:** 
+[My Repository for My Random Quote Machine](https://github.com/trothaar/random-quote-generator)
+
 ### Day 2: January 4, 2017
 
 **Today's Progress**: I built the skeleton of the Random Quote Generator, meaning that I put together a very, very simple page with nearly no formatting and no Tweet button. It does not look very nice, but it generates random quotes. My logic is that I wanted to get a simple version working, then build upon it. I also created a repository for this particular project.
