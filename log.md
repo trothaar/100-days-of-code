@@ -1,4 +1,19 @@
 # 100 Days Of Code - Log
+
+### Day 2: January 4, 2017
+
+**Today's Progress**: I built the skeleton of the Random Quote Generator, meaning that I put together a very, very simple page with nearly no formatting and no Tweet button. It does not look very nice, but it generates random quotes. My logic is that I wanted to get a simple version working, then build upon it. I also created a repository for this particular project.
+
+I used an array of quotes, as I already had a bunch of inspirational quotes stored in a Word doc; I Tweet them for one of my clients (I work as a marketing consultant, primarily for cyber security firms). 
+
+Additionally, although this isn't code-releated, I put together a Medium publication that I can use to write more extensive blogs regarding this project and other things that I'm working on.
+
+**Thoughts:** It took me a while to get the JavaScript working, as I made a couple of minor syntax errors. I couldn't get the array working at all. It turned out that when I copied and pasted the quotes from a text document, the quotation marks around the quotes messed up the array! Sometimes, it's the simple things that stymie us.
+
+**Links to work:** 
+1. [My Repository for My Random Quote Machine](https://github.com/trothaar/random-quote-generator)
+2. [My Medium Publication - Follow The Rothaar Report on Medium](https://medium.com/the-rothaar-report)
+
 ### Day 1: January 3, 2017
 
 **Today's Progress**: Commenced working on the Free Code Camp Random Quote Machine Project. Made a local folder and set up the skeletons for my html, css, and js files, as well as a text file containing the quotes I want to use. Began learning to use GitHub markdown so that I can keep this log.
@@ -6,7 +21,6 @@
 **Thoughts:** I decided to work on this project locally, using Atom, then upload it to CodePen once it is finished. However, if I'm going to do that, I suppose I need to set up a blog so that I can better share my progress, as I will not have any live files to link to until the end. For now, I'm linking to the FCC instruction page.
 
 **Link to work:** [Free Code Camp - Build a Random Quote Machine](https://www.freecodecamp.com/challenges/build-a-random-quote-machine)
-
 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
