@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6, 2017
+
+**Today's Progress**: The Random Quote Generator is in the refrigerator and uploaded to Codepen!
+
+**Thoughts:** In addition to Tweeting out the quote, the tweetIt() JavaScript function also appends the hashtag "#quote" and the site URL to the end of the Tweet. 
+
+I had thought of modifying the "New Quote" button, but in light of the new background image I selected, I thought that the default looked elegant. Also, I learned how to use Google Fonts to modify the default Bootstrap font, and I learned how to center a footer in Bootstrap.
+
+I decided not to add the clock and date at this time, because I want to move onto the next project. I don't want to get so caught up in doing this one that I spend forever "perfecting" it. I can build a fancier version later.
+
+While searching for instructions on how to Tweet dynamic text, I came across [this interesting page,](http://lab.artlung.com/random-cells/) which has the user choose random words and then Tweet the resulting "quote." I bookmarked it because I may want to duplicate it later.
+
+**Links to work:** 
+[My Random Quote Machine on CodePen](http://codepen.io/teresarothaar/full/OWVRZG/)
+[My Repository for My Random Quote Machine](https://github.com/trothaar/random-quote-generator)
+
 ### Day 3: January 5, 2017
 
 **Today's Progress**: I spent some time making the world's simplest random code generator look a little nicer by editing the CSS. Among other edits, I:
