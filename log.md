@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 7, 2017
+
+**Today's Progress**: I missed yesterday -- sort of -- due to running a half marathon, then working in the evening. I say "sort of" because I did begin Googling for resources to complete my next project, which is the FCC weather app, but I did not push any code. I also received a JavaScript test for a developer job I applied to, which involves manipulating a complex data structure. However, I will be unable to share that code publicly.
+
+Today, I built the skeleton for my weather app. In addition to the weather, I am going to have it display the date and time at the top of the page. Right now, it displays the date and time, and there's a button for Farenheit and Celsius, but the button does not yet do anything.
+
+**Thoughts:** This is going to be quite challenging, and I may spend more time figuring out how to do things, such as call an API, then I actually will coding. I'm somewhat used to this from my work as a copywriter. I spend far more time researching my articles/blogs/web content than I actually spend writing.
+
+**Links to work:** 
+[Repository for My Weather App](https://github.com/trothaar/random-quote-generator)
+
 ### Day 4: January 6, 2017
 
 **Today's Progress**: The Random Quote Generator is in the refrigerator and uploaded to Codepen!
