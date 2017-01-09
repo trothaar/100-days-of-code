@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 5: January 7, 2017
+### Day 6: January 9, 2017
+
+**Today's Progress**: I encountered an epic failure. I tried very hard to pass a code assessment for a Junior JavaScript Dev job, spending the better part of yesterday and three hours today trying to finish it. However, I couldn't figure out, for the life of me, how to iterate over the complex object in the problem. I finally had to tell the employer I couldn't do it. For more details, see the README file in today's repository.
+
+On the positive side, I learned an awful lot about JavaScript objects from reading dozens and dozens of articles, and I learned how to use console.log to see what's going on with my code (I'd previously used window.alert).
+
+**Thoughts:** This is a big blow. I really want to get out of copywriting and get an entry-level developer job, but "entry-level" jobs are few and far between. All I can do is keep going and hope that someone eventually gives me a break, as I am capable of doing far more than writing copy. I've posted the test here because I really want to know what it was I couldn't see. I'm out of the running for the job, so any advice you give isn't helping me cheat; it's just helping me be ready for the next coding test.
+
+**Links to work:** 
+[Repository for Failed Test Files](https://github.com/trothaar/failedTest)
+
+### Day 5: January 8, 2017
 
 **Today's Progress**: I missed yesterday -- sort of -- due to running a half marathon, then working in the evening. I say "sort of" because I did begin Googling for resources to complete my next project, which is the FCC weather app, but I did not push any code. I also received a JavaScript test for a developer job I applied to, which involves manipulating a complex data structure. However, I will be unable to share that code publicly.
 
