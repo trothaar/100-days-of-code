@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 11, 2017
+
+**Today's Progress**: I hit a snag yesterday when I had to set up a new computer. I'm switching from a Macbook to a Dell running Windows 10, and I haven't run Windows in years. Today, I turned my attention back to the FCC weather app, which is going to be a bear. [This guy explains how to do it step by step,](https://tylermoeller.net/freecodecamp-weather-app/) but I don't want to just copy all of his code, because that's not the point. Also, I want to make my page look different than his. For one thing, I want to incorporate [this rather extensive set of weather icons.](https://erikflowers.github.io/weather-icons/) I did use his get location function just to get started. I commented out my clock from the HTML file because I think I may want to do something different in that regard.
+
+I also went through W3 Schools' tutorial on AJAX and the JQuery get function, as I think that FCC is lacking in that regard; a Google search showed I'm not the only one who felt that these subjects were glossed over rather quickly.
+
+**Thoughts:** This is going to be really hard, but I'm going to learn a lot.
+
+**Links to work:** 
+[Weather App Repository](https://github.com/trothaar/weather-app)
+
+
 ### Day 6: January 9, 2017
 
 **Today's Progress**: I encountered an epic failure. I tried very hard to pass a code assessment for a Junior JavaScript Dev job, spending the better part of yesterday and three hours today trying to finish it. However, I couldn't figure out, for the life of me, how to iterate over the complex object in the problem. I finally had to tell the employer I couldn't do it. For more details, see the README file in today's repository.
@@ -20,7 +32,7 @@ Today, I built the skeleton for my weather app. In addition to the weather, I am
 **Thoughts:** This is going to be quite challenging, and I may spend more time figuring out how to do things, such as call an API, then I actually will coding. I'm somewhat used to this from my work as a copywriter. I spend far more time researching my articles/blogs/web content than I actually spend writing.
 
 **Links to work:** 
-[Repository for My Weather App](https://github.com/trothaar/random-quote-generator)
+[Repository for My Weather App](https://github.com/trothaar/weather-app)
 
 ### Day 4: January 6, 2017
 
