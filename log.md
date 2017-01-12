@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 12, 2017
+
+**Today's Progress**: It's not very exciting to look at, but I spent some time today [learning about jQuery.get()](https://api.jquery.com/jquery.get/) and how to use it with API's, specifically by playing with some more of [Tyler Moeller's code](https://tylermoeller.net/freecodecamp-weather-app/). I added the user's zip code to the location output.
+
+**Thoughts:** Using jQuery to pull data from API's is a very powerful concept to grasp, and today, I feel I finally "got" it. Now, I can design the weather app that I want, including using the weather icons I downloaded yesterday!
+
+**Links to work:** 
+[Weather App Repository](https://github.com/trothaar/weather-app)
+
+
 ### Day 7: January 11, 2017
 
 **Today's Progress**: I hit a snag yesterday when I had to set up a new computer. I'm switching from a Macbook to a Dell running Windows 10, and I haven't run Windows in years. Today, I turned my attention back to the FCC weather app, which is going to be a bear. [This guy explains how to do it step by step,](https://tylermoeller.net/freecodecamp-weather-app/) but I don't want to just copy all of his code, because that's not the point. Also, I want to make my page look different than his. For one thing, I want to incorporate [this rather extensive set of weather icons.](https://erikflowers.github.io/weather-icons/) I did use his get location function just to get started. I commented out my clock from the HTML file because I think I may want to do something different in that regard.
