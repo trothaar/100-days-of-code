@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 10: January 15, 2017
+### Day 10: January 16, 2017
 
 **Today's Progress**: It's still not exciting to look at, but my weather app has an icon now, and it meets every single user story required by FCC. Now that I have a functional app, I can pretty it up with CSS and by adding the date and time that I want.
 
