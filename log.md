@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 15, 2017
+
+**Today's Progress**: I have the world's simplest weather app built. It displays the user's location and weather conditions, with a button the user can toggle to switch betwween F/C. There is currently no formatting. The next step is to integrate the weather icons.
+
+**Thoughts:** This week was difficult, and then, I ran a half marathon on Saturday and left everything I had at the race. I am keeping on this 100 days of code thing even though I'm finding I can't push code every single day. Because I'm a beginner, some days, I do more thinking, planning, and learning than actual coding. I'm going to do my best to come as close as possible to coding every day, but the important thing is that I keep going even if I miss a day or two.
+
+**Links to work:** 
+[Weather App Repository](https://github.com/trothaar/weather-app)
+
+
 ### Day 8: January 12, 2017
 
 **Today's Progress**: It's not very exciting to look at, but I spent some time today [learning about jQuery.get()](https://api.jquery.com/jquery.get/) and how to use it with API's, specifically by playing with some more of [Tyler Moeller's code](https://tylermoeller.net/freecodecamp-weather-app/). I added the user's zip code to the location output.
