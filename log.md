@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 15, 2017
+
+**Today's Progress**: It's still not exciting to look at, but my weather app has an icon now, and it meets every single user story required by FCC. Now that I have a functional app, I can pretty it up with CSS and by adding the date and time that I want.
+
+**Thoughts:** I had wanted to use the really nice icon set I downloaded, but I wasn't sure how well they'd play with CodePen, so I decided to just use the icons provided by Open Weather Map for now.
+
+**Links to work:** 
+[Weather App Repository](https://github.com/trothaar/weather-app)
+
 ### Day 9: January 15, 2017
 
 **Today's Progress**: I have the world's simplest weather app built. It displays the user's location and weather conditions, with a button the user can toggle to switch betwween F/C. There is currently no formatting. The next step is to integrate the weather icons.
