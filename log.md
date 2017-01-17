@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 17, 2017
+
+**Today's Progress**: I now have a functioning weather app that meets all of the FCC user stories, plus provides the current date and time! The design is not fancy, but it's no longer ugly.
+
+**Thoughts:** While completing this project, I learned how to use JQuery to make API requests and make use of the provided data. I also learned about JavaScript date and time functions.
+
+**Links to work:** 
+[Weather App on CodePen](http://codepen.io/teresarothaar/full/apBGqa/)
+[Weather App Repository](https://github.com/trothaar/weather-app)
+
 ### Day 10: January 16, 2017
 
 **Today's Progress**: It's still not exciting to look at, but my weather app has an icon now, and it meets every single user story required by FCC. Now that I have a functional app, I can pretty it up with CSS and by adding the date and time that I want.
