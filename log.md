@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 13: January 19, 2017
+
+**Today's Progress**: Still working on the Wikipedia viewer. I can't get the search box to do anything.
+
+**Thoughts:** I still have a lot to learn about jQuery and jQuery UI, the latter of which I want to use to format the search box.
+
+**Links to work:** 
+[My Wikipedia Viewer Repository](https://github.com/trothaar/wikipedia-viewer)
+
 ### Day 12: January 18, 2017
 
 **Today's Progress**: With my weather app done, I have turned my attention to the next FCC challenge: building a Wikipedia viewer. I have my html, js, and css skeleton files set up with code snippets that I snagged for repurposing. The HTML file has a link to a random Wikipedia entry and a search box that doesn't yet do anything.
