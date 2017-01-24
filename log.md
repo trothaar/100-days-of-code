@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 18: January 24, 2017
+
+**Today's Progress**: Still working on the Wikipedia viewer. I made some changes to the JavaScript and played around with it to see if I could "break" things. I also decided to use a different search box; I didn't like the way the first one looked, so I got a really nice one from a template [here on Bootsnip](http://bootsnipp.com/snippets/featured/expanding-search-button-in-css). The look is much cleaner. 
+
+**Thoughts:** The JavaScript/JQuery I'm using currently begins the search on keyup; I want to modify this so that it doesn't do anything until the user presses the enter key or hits the search icon.
+
+**Links to work:** 
+[My Wikipedia Viewer Repository](https://github.com/trothaar/wikipedia-viewer)
+
 ### Days 14 - 17: January 20 - 23, 2017
 
 **Today's Progress**: I haven't been logging, but I have spent considerable time on the Wikipedia viewer over the past four days. I have an operational model, but it still needs work.
