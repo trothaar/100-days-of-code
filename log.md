@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Days 14 - 17: January 20 - 23, 2017
+
+**Today's Progress**: I haven't been logging, but I have spent considerable time on the Wikipedia viewer over the past four days. I have an operational model, but it still needs work.
+
+**Thoughts:** I am learning more about JQuery and how to work with data fetched from API's.
+
+**Links to work:** 
+[My Wikipedia Viewer Repository](https://github.com/trothaar/wikipedia-viewer)
+
 ### Day 13: January 19, 2017
 
 **Today's Progress**: Still working on the Wikipedia viewer. I can't get the search box to do anything.
