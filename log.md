@@ -1,5 +1,26 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 20: January 26, 2017
+
+**Today's Progress**: I finally finished the Wikipedia Viewer!
+
+**Thoughts:** Everyone said this would be easy, but it was really hard for me.
+
+**Links to work:** 
+[My Wikipedia Viewer on CodePen](http://codepen.io/teresarothaar/full/RKLeEe/)
+[My Wikipedia Viewer Repository](https://github.com/trothaar/wikipedia-viewer)
+
+
+### Day 19: January 25, 2017
+
+**Today's Progress**: Still working on the Wikipedia viewer.  
+
+**Thoughts:** The JavaScript/JQuery I'm using currently begins the search on keyup; I want to modify this so that it doesn't do anything until the user presses the enter key or hits the search icon. It looks like the easiest way to accomplish this is to use a button rather than a button-less search bar.
+
+**Links to work:** 
+[My Wikipedia Viewer Repository](https://github.com/trothaar/wikipedia-viewer)
+
+
 ### Day 18: January 24, 2017
 
 **Today's Progress**: Still working on the Wikipedia viewer. I made some changes to the JavaScript and played around with it to see if I could "break" things. I also decided to use a different search box; I didn't like the way the first one looked, so I got a really nice one from a template [here on Bootsnip](http://bootsnipp.com/snippets/featured/expanding-search-button-in-css). The look is much cleaner. 
