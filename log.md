@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 1 [Reboot]: February 7, 2017
+
+**Today's Progress**: I missed a bunch of days, but I am not giving up, because if I do, I will never achieve my goal of becoming a developer. I decided to simply restart the challenge and commit to doing better this time around. Today, I began work on the TwitchTV API project. I created a cursory HTML and JS file with the help of the [Coding Tutorials 360 YouTube Channel](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw).
+
+**Thoughts:** I had been struggling as to where to get started on the TwitchTV project. I usually prefer to learn through written materials, but I couldn't find any that would actually teach me how to code this project instead of just showing me what the author did, which was not going to help at all. These videos are about to save my ass. Thanks, Dylan Israel!
+
+**Links to work:**:
+[My TwitchTV API Repository](https://github.com/trothaar/fcc-twitchtv)
+
 ### Day 20: January 26, 2017
 
 **Today's Progress**: I finally finished the Wikipedia Viewer!
