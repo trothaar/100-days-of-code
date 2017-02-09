@@ -1,5 +1,18 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 3: February 9, 2017
+
+**Today's Progress**: I didn't make any CSS changes, but I noticed that there were two errors in the JavaScript: The status for the offline users was showing as "null," and the nonexistent test users were not showing up at all. I fixed these problems. I also altered the script to show a placeholder logo if the user existed but had no logo, and the red "don't" sign if the user did not exist.
+
+Also, for some bizarre reason, my header row works fine on my desktop, but CodePen didn't like it; it was insisting on putting each column header on a different line. I commented that part of the HTML out, so the CodePen version is a bit different than what you would see if you downloaded the files from Github and looked at the pages in your browser.
+
+**Thoughts:** I'm thrilled to be done with this project. Now, I'm moving on to intermediate and advanced algorithims. Then, I do the advanced front-end projects, and finally, I can claim my front-end FCC certificate!
+
+**Links to work:**:
+[My TwitchTV API Repository](https://github.com/trothaar/fcc-twitchtv)
+[My TwitchTV Viewer on CodePen](http://codepen.io/teresarothaar/full/WRayoW/)
+
+
 ### Day 2: February 8, 2017
 
 **Today's Progress**: I've pretty much finished the TwitchTV project, although I think I want to make some more tweaks to the CSS before uploading it to CodePen.
