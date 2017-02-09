@@ -8,7 +8,7 @@ Also, for some bizarre reason, my header row works fine on my desktop, but CodeP
 
 **Thoughts:** I'm thrilled to be done with this project. Now, I'm moving on to intermediate and advanced algorithims. Then, I do the advanced front-end projects, and finally, I can claim my front-end FCC certificate!
 
-**Links to work:**:
+**Links to work:**
 [My TwitchTV API Repository](https://github.com/trothaar/fcc-twitchtv)
 [My TwitchTV Viewer on CodePen](http://codepen.io/teresarothaar/full/WRayoW/)
 
@@ -19,7 +19,7 @@ Also, for some bizarre reason, my header row works fine on my desktop, but CodeP
 
 **Thoughts:** I can't say enough good things about the [Coding Tutorials 360 YouTube Channel](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw). Without these videos, I'd still be scratching my head. I really like how he taught how to pull the FCC followers directly from TwitchTV instead of hard-coding them, and how he taught us how to get a client ID and use .ajax instead of .getJSON.
 
-**Links to work:**:
+**Links to work:**
 [My TwitchTV API Repository](https://github.com/trothaar/fcc-twitchtv)
 
 ### Day 1 [Reboot]: February 7, 2017
@@ -28,7 +28,7 @@ Also, for some bizarre reason, my header row works fine on my desktop, but CodeP
 
 **Thoughts:** I had been struggling as to where to get started on the TwitchTV project. I usually prefer to learn through written materials, but I couldn't find any that would actually teach me how to code this project instead of just showing me what the author did, which was not going to help at all. These videos are about to save my ass. Thanks, Dylan Israel!
 
-**Links to work:**:
+**Links to work:**
 [My TwitchTV API Repository](https://github.com/trothaar/fcc-twitchtv)
 
 ### Day 20: January 26, 2017
