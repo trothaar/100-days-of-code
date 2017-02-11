@@ -1,5 +1,15 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 5: February 11, 2017
+
+**Today's Progress**: Completed FCC intermediate algorithm challenges Nos. 265 and 266.
+
+**Thoughts:** No. 266, the Roman numeral converter, is an ugly, ugly program full of conditionals. Someone more experienced than me probably could have coded this far more elegantly, but I got the job done. I'm glad I finished it; I run the breast cancer half marathon here in Jacksonville tomorrow, so I may have to take a "bye" day. I'm going to see if I can sneak in an hour of code.
+
+**Links to work:**
+[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+
+
 ### Day 4: February 10, 2017
 
 **Today's Progress**: I started on FCC's intermediate algorithm challenges. I completed No. 264 and began work on No. 265.
