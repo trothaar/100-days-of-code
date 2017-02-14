@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 6: February 13, 2017
+
+**Today's Progress**: Completed FCC intermediate algorithm challenge No. 267, "Wherefore Art Thou."
+
+**Thoughts:** After my "bye" day for yesterday's marathon, which knocked me off my feet, I was right back at it. Today, I learned about the power of the JS .filter() function.
+
+**Links to work:**
+[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 5: February 11, 2017
 
 **Today's Progress**: Completed FCC intermediate algorithm challenges Nos. 265 and 266.
