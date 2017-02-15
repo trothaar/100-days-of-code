@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 8: February 15, 2017
+
+**Today's Progress**: Finished FCC intermediate algorithm challenge Nos. 268 & 269, "Search & Replace" and "Pig Latin."
+
+**Thoughts:** I ended up hard-coding the lone consonant cluster case into the Pig Latin program, as I could not get an external function to work. I will revisit this later.
+
+**Links to work:**
+[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 7: February 14, 2017
 
 **Today's Progress**: Commenced work on FCC intermediate algorithm challenge No. 268, "Search & Replace."
