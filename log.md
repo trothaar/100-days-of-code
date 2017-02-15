@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 7: February 14, 2017
+
+**Today's Progress**: Commenced work on FCC intermediate algorithm challenge No. 268, "Search & Replace."
+
+**Thoughts:** Having to keep the replacement case-sensitive is the sticking point here.
+
+**Links to work:**
+[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 6: February 13, 2017
 
 **Today's Progress**: Completed FCC intermediate algorithm challenge No. 267, "Wherefore Art Thou."
