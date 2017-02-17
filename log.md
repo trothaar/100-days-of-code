@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 9: February 16, 2017
+
+**Today's Progress**: The Pig Latin challenge was bothering me because I'd had to hard-code the consonant cluster case. I went back and fixed the problem so that it will work with all consonant cluster pairs. I also completed the next challenge, DNA Pairing.
+
+**Thoughts:** I need to get better at RegEx; it would have helped me code the Pig Lain solution much more elegantly.
+
+**Links to work:**
+[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 8: February 15, 2017
 
 **Today's Progress**: Finished FCC intermediate algorithm challenge Nos. 268 & 269, "Search & Replace" and "Pig Latin."
