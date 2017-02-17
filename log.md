@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 10: February 17, 2017
+
+**Today's Progress**: I completed two more FCC algorithm challenges: Missing Letters & Boo Who.
+
+**Thoughts:** Boo Who took only a few minutes to solve. Missing Letters took up most of my time, primarily because I misunderstood the problem at first; I was returning the entire new string instead of just the missing character.
+
+**Links to work:**
+[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 9: February 16, 2017
 
 **Today's Progress**: The Pig Latin challenge was bothering me because I'd had to hard-code the consonant cluster case. I went back and fixed the problem so that it will work with all consonant cluster pairs. I also completed the next challenge, DNA Pairing.
