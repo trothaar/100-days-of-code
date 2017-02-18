@@ -1,5 +1,16 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 11: February 18, 2017
+
+**Today's Progress**: I went in a different direction today and performed a much-needed update to my business site, [Wild Owl Digital](http://wildowldigital.com/). I've been using it to advertise copywriting services, which is how I've made my living for most of the past decade, but I updated it to include web design services. I also completely re-did the design using the WordPress Twenty Seventeen theme with customizations, including jQuery code to get the dynamic linking on the home page.
+
+I may do some of the FCC algorithms later, but this needs to take priority so that I can expand my business.
+
+**Thoughts:** I love WordPress Twenty Seventeen. It allows for some pretty cool customization right out of the box, and as I learn more, I'll be able to do more.
+
+**Links to work:**
+[Wild Owl Digital](http://wildowldigital.com/)
+
 ### Day 10: February 17, 2017
 
 **Today's Progress**: I completed two more FCC algorithm challenges: Missing Letters & Boo Who.
