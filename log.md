@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 12: February 20, 2017
+
+**Today's Progress**: After having missed yesterday, I completed three FCC challenges today: Sorted Union, Convert HTML Entities, and Spinal Tap Case.
+
+**Thoughts:** I'm getting better with RegEx, though my proficiency in it still leaves a lot to be desired.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 11: February 18, 2017
 
 **Today's Progress**: I went in a different direction today and performed a much-needed update to my business site, [Wild Owl Digital](http://wildowldigital.com/). I've been using it to advertise copywriting services, which is how I've made my living for most of the past decade, but I updated it to include web design services. I also completely re-did the design using the WordPress Twenty Seventeen theme with customizations, including jQuery code to get the dynamic linking on the home page.
@@ -18,7 +27,7 @@ I may do some of the FCC algorithms later, but this needs to take priority so th
 **Thoughts:** Boo Who took only a few minutes to solve. Missing Letters took up most of my time, primarily because I misunderstood the problem at first; I was returning the entire new string instead of just the missing character.
 
 **Links to work:**
-[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
 
 ### Day 9: February 16, 2017
 
@@ -27,7 +36,7 @@ I may do some of the FCC algorithms later, but this needs to take priority so th
 **Thoughts:** I need to get better at RegEx; it would have helped me code the Pig Lain solution much more elegantly.
 
 **Links to work:**
-[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
 
 ### Day 8: February 15, 2017
 
@@ -36,7 +45,7 @@ I may do some of the FCC algorithms later, but this needs to take priority so th
 **Thoughts:** I ended up hard-coding the lone consonant cluster case into the Pig Latin program, as I could not get an external function to work. I will revisit this later.
 
 **Links to work:**
-[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
 
 ### Day 7: February 14, 2017
 
@@ -45,7 +54,7 @@ I may do some of the FCC algorithms later, but this needs to take priority so th
 **Thoughts:** Having to keep the replacement case-sensitive is the sticking point here.
 
 **Links to work:**
-[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
 
 ### Day 6: February 13, 2017
 
@@ -54,7 +63,7 @@ I may do some of the FCC algorithms later, but this needs to take priority so th
 **Thoughts:** After my "bye" day for yesterday's marathon, which knocked me off my feet, I was right back at it. Today, I learned about the power of the JS .filter() function.
 
 **Links to work:**
-[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
 
 ### Day 5: February 11, 2017
 
@@ -63,7 +72,7 @@ I may do some of the FCC algorithms later, but this needs to take priority so th
 **Thoughts:** No. 266, the Roman numeral converter, is an ugly, ugly program full of conditionals. Someone more experienced than me probably could have coded this far more elegantly, but I got the job done. I'm glad I finished it; I run the breast cancer half marathon here in Jacksonville tomorrow, so I may have to take a "bye" day. I'm going to see if I can sneak in an hour of code.
 
 **Links to work:**
-[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
 
 
 ### Day 4: February 10, 2017
@@ -73,7 +82,7 @@ I may do some of the FCC algorithms later, but this needs to take priority so th
 **Thoughts:** I began uploading my work onto Github when I first began the basic algorithms section. I'm just going to put all of my FCC algorithms into that repository.
 
 **Links to work:**
-[My FCC Algorithms Solutions Folder](https://github.com/trothaar/fcc-basic-algorithms)
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
 
 ### Day 3: February 9, 2017
  
