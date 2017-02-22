@@ -4,7 +4,7 @@
 
 **Today's Progress**: I completed FCC algorithm challenge no. 276: Sum All Odd Fibonacci Numbers.
 
-**Thoughts:** I misunderstood the instructions at first and wrote a program that calcuated the first n Fibonacci numbers and placed them into an array. I ended up with some huge-ass numbers! LOL I ended up saving that particular program as a separate file and uploaded it, along with the correct answer to the FCC problem.
+**Thoughts:** I misunderstood the instructions at first and wrote a program that calcuated the first n Fibonacci numbers and placed them into an array. I ended up with some huge-ass numbers! LOL I decided to save that particular function as a separate file and uploaded it, along with the correct answer to the FCC problem.
 
 **Links to work:**
 [My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
