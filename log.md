@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 13: February 21, 2017
+
+**Today's Progress**: I completed FCC algorithm challenge no. 276: Sum All Odd Fibonacci Numbers.
+
+**Thoughts:** I misunderstood the instructions at first and wrote a program that calcuated the first n Fibonacci numbers and placed them into an array. I ended up with some huge-ass numbers! LOL I ended up saving that particular program as a separate file and uploaded it, along with the correct answer to the FCC problem.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 12: February 20, 2017
 
 **Today's Progress**: After having missed yesterday, I completed three FCC challenges today: Sorted Union, Convert HTML Entities, and Spinal Tap Case.
