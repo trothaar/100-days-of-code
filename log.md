@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 14: February 22, 2017
+
+**Today's Progress**: I completed FCC algorithm challenge nos. 277 & 278: Sum All Primes and Smallest Commpon Multiples.
+
+**Thoughts:** The primes one was relatively easy because I was able to repurpose some of my code from the Fibonacci program I wrote yesterday.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 13: February 21, 2017
 
 **Today's Progress**: I completed FCC algorithm challenge no. 276: Sum All Odd Fibonacci Numbers.
