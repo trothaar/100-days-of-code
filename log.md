@@ -1,8 +1,17 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 15: February 23, 2017
+
+**Today's Progress**: I completed FCC algorithm challenge nos. 279 & 280: Finders Keepers and Drop It, and began working on No. 281.
+
+**Thoughts:** I'm learning more about how to pass functions as parameters. I thought Finders Keepers would be hard, but I completed it in only a few minutes!
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 14: February 22, 2017
 
-**Today's Progress**: I completed FCC algorithm challenge nos. 277 & 278: Sum All Primes and Smallest Commpon Multiples.
+**Today's Progress**: I completed FCC algorithm challenge nos. 277 & 278: Sum All Primes and Smallest Common Multiples.
 
 **Thoughts:** The primes one was relatively easy because I was able to repurpose some of my code from the Fibonacci program I wrote yesterday.
 
