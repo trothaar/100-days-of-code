@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 16: February 24, 2017
+
+**Today's Progress**: I completed FCC algorithm challenge no 281, Steamroller.
+
+**Thoughts:** I learned about the spread operator and ES6. I don't completely grasp ES6 yet, but I have a rudimentary understanding of how the spread operator works. It saves a lot of code in scenarios like this one.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 15: February 23, 2017
 
 **Today's Progress**: I completed FCC algorithm challenge nos. 279 & 280: Finders Keepers and Drop It, and began working on No. 281.
