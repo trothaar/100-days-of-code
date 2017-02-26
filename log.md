@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 17: February 26, 2017
+
+**Today's Progress**: I had to miss yesterday because [the internet got knocked out in Jacksonville](http://www.news4jax.com/news/local/widespread-comcast-outage-in-ne-florida) after a road worker severed a fiber optic line. I got back on track today and completed FCC algorithm No. 282, Binary Agents.
+
+**Thoughts:** I'm really glad that, before I began work on this problem, I did some research and found the parseInt() function to automatically convert from binary to Unicode. Otherwise, I would have ended up with some really, really ugly code.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 16: February 24, 2017
 
 **Today's Progress**: I completed FCC algorithm challenge no 281, Steamroller.
