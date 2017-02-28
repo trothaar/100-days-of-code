@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 18: February 27, 2017
+
+**Today's Progress**: I completed FCC algorithm No. 283, Everything Be True.
+
+**Thoughts:** Iterating through the key-value pairs of complex objects still confuses me, but I got it done. I have one more algorithm to do before completing the intermediate algorithms section!
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 17: February 26, 2017
 
 **Today's Progress**: I had to miss yesterday because [the internet got knocked out in Jacksonville](http://www.news4jax.com/news/local/widespread-comcast-outage-in-ne-florida) after a road worker severed a fiber optic line. I got back on track today and completed FCC algorithm No. 282, Binary Agents.
