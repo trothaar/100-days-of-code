@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 19: February 28, 2017
+
+**Today's Progress**: I completed the FCC Arguments Optional algorithm, which completes the intermediate algorithms section! Now, I can move on to the advanced algorithms.
+
+**Thoughts:** I learned more about how to work with the Arguments object, as well as how to return a function.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 18: February 27, 2017
 
 **Today's Progress**: I completed FCC algorithm No. 283, Everything Be True.
