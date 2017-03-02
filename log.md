@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 20: March 1, 2017
+
+**Today's Progress**: I began the Free Code Camp Advanced Algorithms section and started working on the Validate U.S. Phone Numbers challenge.
+
+**Thoughts:** This one is really hard, as my RegEx skills are lacking. I'm going through the problem piece by piece, and I have a couple of cases working.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 19: February 28, 2017
 
 **Today's Progress**: I completed the FCC Arguments Optional algorithm, which completes the intermediate algorithms section! Now, I can move on to the advanced algorithms.
