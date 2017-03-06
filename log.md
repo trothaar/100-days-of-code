@@ -1,5 +1,15 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 21: March 6, 2017
+
+**Today's Progress**: After losing a few days because I went to Orlando to run a half marathon, I got back to work and finished the FCC U.S. phone numbers challenge
+
+**Thoughts:** I'd like to do a more robust validator that strips out dashes, hypens, parens, and even periods to give users more leeway, and that recognizes that no 555 numbers are valid other than 555-1212.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
+
 ### Day 20: March 1, 2017
 
 **Today's Progress**: I began the Free Code Camp Advanced Algorithms section and started working on the Validate U.S. Phone Numbers challenge.
