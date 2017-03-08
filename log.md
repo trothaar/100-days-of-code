@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 22: March 7, 2017
+
+**Today's Progress**: I completed two more FCC algorithm challenges: Record Collection and Symmetric Difference.
+
+**Thoughts:** Only six more algorithm challenges before I can move onto the advanced front-end projects, then claim my hard-won front-end certificate!
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 21: March 6, 2017
 
 **Today's Progress**: After losing a few days because I went to Orlando to run a half marathon, I got back to work and finished the FCC U.S. phone numbers challenge
