@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 23: March 8, 2017
+
+**Today's Progress**: I began work on the next FCC algorithm challenge, Exact Change.
+
+**Thoughts:** The first step is to figure out how to deal with the currency calculations. Unlike other programming languages, JavaScript does not recognize floating-point numbers.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 22: March 7, 2017
 
 **Today's Progress**: I completed two more FCC algorithm challenges: Record Collection and Symmetric Difference.
