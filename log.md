@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 25: March 10, 2017
+
+**Today's Progress**: Not much to report today; continued to work on the FCC algorithm challenge, Exact Change.
+
+**Thoughts:** This is a very difficult problem.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 24: March 9, 2017
 
 **Today's Progress**: Continued to work on the FCC algorithm challenge, Exact Change.
