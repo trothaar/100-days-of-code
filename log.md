@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 26: March 11, 2017
+
+**Today's Progress**: I finished the FCC Exact Change algorithm challenge and moved on to the next one, Inventory Update.
+
+**Thoughts:** I'm struggling with these algorithms but continue to peck my way through them.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 25: March 10, 2017
 
 **Today's Progress**: Not much to report today; continued to work on the FCC algorithm challenge, Exact Change.
