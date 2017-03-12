@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 27: March 12, 2017
+
+**Today's Progress**: I completed the Inventory Update challenge and began work on the No Repeats Please challenge.
+
+**Thoughts:** Inventory Update wasn't that bad, although I had to use three helper functions (at least I did; I'm sure more skilled people didn't, heh). This next one requires RegEx skills, which I'm sure will be tons of fun!
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 26: March 11, 2017
 
 **Today's Progress**: I finished the FCC Exact Change algorithm challenge and moved on to the next one, Inventory Update.
