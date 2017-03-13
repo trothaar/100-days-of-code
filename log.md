@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 28: March 13, 2017
+
+**Today's Progress**: I completed the No Repeats Please challenge and began work on Make a Person.
+
+**Thoughts:** It wasn't the enemy I saw that got me; it was the one I didn't. The RegEx for this problem was actually very simple, and the pattern I used will catch all repeated characters, not just letters. Generating all of the permutations was the difficult part. Save yourself a lot of time and hassle and [check out this very informative blog entry](http://www.knanthony.com/blog/free-code-camp-no-repeats-please/) on this particular challenge. 
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 27: March 12, 2017
 
 **Today's Progress**: I completed the Inventory Update challenge and began work on the No Repeats Please challenge.
