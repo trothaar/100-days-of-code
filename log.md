@@ -4,7 +4,7 @@
 
 **Today's Progress**: I finished two more FCC algorithm challenges, Make a Person and Map the Debris.
 
-**Thoughts:** These were short but important challenges that taught me how to create JavaScript object methods and use various math libraries.
+**Thoughts:** These were short but important challenges that taught me how to create JavaScript object methods and use various math libraries. I have one more algorithm left before I can proceed to the advanced front-end projects!
 
 **Links to work:**
 [My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
