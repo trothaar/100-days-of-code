@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 30: March 15, 2017
+
+**Today's Progress**: I completed the Pairwise FCC algorithm challenge.
+
+**Thoughts:** I can now move on to the advanced front-end projects, the last challenges I need to complete in order to get my front-end dev certificate.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 29: March 14, 2017
 
 **Today's Progress**: I finished two more FCC algorithm challenges, Make a Person and Map the Debris.
