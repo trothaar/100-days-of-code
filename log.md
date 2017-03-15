@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 29: March 14, 2017
+
+**Today's Progress**: I finished two more FCC algorithm challenges, Make a Person and Map the Debris.
+
+**Thoughts:** These were short but important challenges that taught me how to create JavaScript object methods and use various math libraries.
+
+**Links to work:**
+[My FCC Algorithms Solutions Repo](https://github.com/trothaar/fcc-basic-algorithms)
+
 ### Day 28: March 13, 2017
 
 **Today's Progress**: I completed the No Repeats Please challenge and began work on Make a Person.
