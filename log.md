@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 31: March 16, 2017
+
+**Today's Progress**: Began working on the next FCC challenge, which is to build a JavaScript calculator. I created an HTML file containing the calculator buttons, using Bootstrap.
+
+**Thoughts:** I hadn't used HTML in so long, I'd forgotten how to write comments in it; I was styling them as if they were JavaScript comments!
+
+**Links to work:**
+[My FCC Calculator Repo](https://github.com/trothaar/fcc-calculator)
+
 ### Day 30: March 15, 2017
 
 **Today's Progress**: I completed the Pairwise FCC algorithm challenge.
