@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 32: March 18, 2017
+
+**Today's Progress**: After missing a day, I got back to work on the FCC calculator. I began formatting it with CSS. It doesn't do anything yet.
+
+**Thoughts:** Because I was working for so long on JavaScript algorithms, I'd forgotten how to do a bunch of things in CSS. 
+
+**Links to work:**
+[My FCC Calculator Repo](https://github.com/trothaar/fcc-calculator)
+
 ### Day 31: March 16, 2017
 
 **Today's Progress**: Began working on the next FCC challenge, which is to build a JavaScript calculator. I created an HTML file containing the calculator buttons, using Bootstrap.
