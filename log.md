@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 34: March 20, 2017
+
+**Today's Progress**: Made great progress on the FCC calculator app.
+
+**Thoughts:** The calculator is nearly done!
+
+**Links to work:**
+[My FCC Calculator Repo](https://github.com/trothaar/fcc-calculator)
+
 ### Day 33: March 19, 2017
 
 **Today's Progress**: I ran a 12-miler and got injured during it (nothing serious), but I still completed my hour o' code. I made some changes to the Calculator's CSS file and began work on the JavaScript file.
