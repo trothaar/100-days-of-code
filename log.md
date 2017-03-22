@@ -1,5 +1,15 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 35: March 21, 2017
+
+**Today's Progress**: The Free Code Camp jQuery calculator is finished and uploaded to CodePen!
+
+**Thoughts:** CodePen just launched a new editing system, CodePen projects. Among other things, it lets you directly upload project files created locally. That is so much easier than having to copy and paste everything!
+
+**Links to work:**
+[My FCC Calculator Repo](https://github.com/trothaar/fcc-calculator)
+[My FCC Calculator on CodePen](https://codepen.io/teresarothaar/project/full/AkkyrA/)
+
 ### Day 34: March 20, 2017
 
 **Today's Progress**: Made great progress on the FCC calculator app.
