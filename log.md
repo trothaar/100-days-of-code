@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 36: March 26, 2017
+
+**Today's Progress**: I screwed up and missed a few days, but I'm back in the game. Today, I began working on the Free Code Camp Pomodoro Clock, setting up the basic HTML and CSS.
+
+**Thoughts:** I've been trying to figure out what direction to go in, other than completing the FCC challenges. I do marketing work for cyber security companies, and I want to get into the technical side of InfoSec. I signed up for Cybrary so that I can start working on the CompTIA A+ certification. According to their roadmap, that's the first one I should go for. I know there's one below that called IT Fundamentals, but I've been told that's probably too easy for me, as I have a math/CIS undergrad degree.
+
+**Links to work:**
+[My FCC Pomodoro Clock Repo](https://github.com/trothaar/pomodoro-clock)
+
 ### Day 35: March 21, 2017
 
 **Today's Progress**: The Free Code Camp jQuery calculator is finished and uploaded to CodePen!
