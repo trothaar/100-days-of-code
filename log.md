@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 37: March 28, 2017
+
+**Today's Progress**: I continued working on the Free Code Camp Pomodoro Clock, adding more functions to the JS.
+
+**Thoughts:** The clock is coming along nicely.
+
+**Links to work:**
+[My FCC Pomodoro Clock Repo](https://github.com/trothaar/pomodoro-clock)
+
 ### Day 37: March 27, 2017
 
 **Today's Progress**: I continued working on the Free Code Camp Pomodoro Clock. I began the JS and made great progress.
