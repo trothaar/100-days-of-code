@@ -1,5 +1,15 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 38: March 29, 2017
+
+**Today's Progress**: I finished the Pomodoro Clock, but I can't submit it yet. I developed it locally, then copied & pasted it onto CodePen. Everything runs just fine locally, but on CodePen, my basketball buzzer does not play at the end of the sessions and breaks. ???
+
+**Thoughts:** I was all ready to submit it and move on to the next project, and then this! Very frustrating.
+
+**Links to work:**
+[My FCC Pomodoro Clock Repo](https://github.com/trothaar/pomodoro-clock)
+[My FCC Pomodoro Clock on CodePen](http://codepen.io/teresarothaar/full/WpYRBa/)
+
 ### Day 37: March 28, 2017
 
 **Today's Progress**: I continued working on the Free Code Camp Pomodoro Clock, adding more functions to the JS.
