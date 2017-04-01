@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 39: April 1, 2017
+
+**Today's Progress**: I began work on the Free Code Camp Tic Tac Toe game.
+
+**Thoughts:** This one is probably going to take some time because, to get something that looks even remotely like the example, I'll probably need to try out some new JavaScript libraries.
+
+**Links to work:**
+[My FCC Tic Tac Toe Repo](https://github.com/trothaar/fcc-tictactoe)
+
 ### Day 38: March 29, 2017
 
 **Today's Progress**: I finished the Pomodoro Clock ~~but I can't submit it yet. I developed it locally, then copied & pasted it onto CodePen. Everything runs just fine locally, but on CodePen, my basketball buzzer does not play at the end of the sessions and breaks. ???~~
