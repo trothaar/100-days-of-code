@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 41: April 5, 2017
+
+**Today's Progress**: Continued work on the Free Code Camp Tic Tac Toe game.
+
+**Thoughts:** My prototype is still ugly and buggy. I mentioned yesterday that I had thought of using an advanced JS library, but now, I'm thinking again. I think I just need to focus on building a simple game in JS and jQuery first.
+
+**Links to work:**
+[My FCC Tic Tac Toe Repo](https://github.com/trothaar/fcc-tictactoe)
+
 ### Day 40: April 4, 2017
 
 **Today's Progress**: Continued work on the Free Code Camp Tic Tac Toe game.
