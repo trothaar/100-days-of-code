@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 43: April 10, 2017
+
+**Today's Progress**: Continued work on the Free Code Camp Tic Tac Toe game.
+
+**Thoughts:** I've started all over again, with reworking my HTML.
+
+**Links to work:**
+[My FCC Tic Tac Toe Repo](https://github.com/trothaar/fcc-tictactoe)
+
 ### Day 42: April 6, 2017
 
 **Today's Progress**: Continued work on the Free Code Camp Tic Tac Toe game.
