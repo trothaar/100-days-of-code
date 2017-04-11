@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 44: April 11, 2017
+
+**Today's Progress**: I had despaired over my tic tac toe game, but I finally have an operational model. It's not fancy, but it's no longer fugly, and more importantly, it's operational. I want to do some styling to it before uploading it to CodePen.
+
+**Thoughts:** I had to start all over again with my HTML, though since this project didn't require a lot of HTML, that wasn't as bad as it sounded. I did not have to completely trash my JS and jQuery, but I did have to go through it, line by line, and rework a lot of it. I no longer despair over my tic tac toe game!
+
+**Links to work:**
+[My FCC Tic Tac Toe Repo](https://github.com/trothaar/fcc-tictactoe)
+
 ### Day 43: April 10, 2017
 
 **Today's Progress**: Continued work on the Free Code Camp Tic Tac Toe game.
