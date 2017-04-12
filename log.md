@@ -1,5 +1,15 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 45: April 12, 2017
+
+**Today's Progress**: I finished the Tic Tac Toe game and uploaded it to CodePen. Now, it's on to the Simon game.
+
+**Thoughts:** For some odd reason, on CodePen the "Switch to O" button isn't changing class from btn-secondary to btn-primary when it is selected, even though it works fine locally. I suspect it's a weird CodePen thing, so I'm not going to worry about it; the code is correct.
+
+**Links to work:**
+[My FCC Tic Tac Toe Repo](https://github.com/trothaar/fcc-tictactoe)
+[My FCC Tic Tac Toe on CodePen](http://codepen.io/teresarothaar/full/bWbzEE/)
+
 ### Day 44: April 11, 2017
 
 **Today's Progress**: I had despaired over my tic tac toe game, but I finally have an operational model. It's not fancy, but it's no longer fugly, and more importantly, it's operational. I want to do some styling to it before uploading it to CodePen.
