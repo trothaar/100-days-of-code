@@ -4,7 +4,7 @@
 
 **Today's Progress**: I finished the Tic Tac Toe game and uploaded it to CodePen. Now, it's on to the Simon game.
 
-**Thoughts:** For some odd reason, on CodePen the "Switch to O" button isn't changing class from btn-secondary to btn-primary when it is selected, even though it works fine locally. I suspect it's a weird CodePen thing, so I'm not going to worry about it; the code is correct.
+**Thoughts:** ~~For some odd reason, on CodePen the "Switch to O" button isn't changing class from btn-secondary to btn-primary when it is selected, even though it works fine locally. I suspect it's a weird CodePen thing, so I'm not going to worry about it; the code is correct.~~ CodePen uses Bootstrap 4, and I develop in 3. I deleted their auto-add link and manually added 3, and now, it works fine.
 
 **Links to work:**
 [My FCC Tic Tac Toe Repo](https://github.com/trothaar/fcc-tictactoe)
