@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 46: April 12, 2017
+
+**Today's Progress**: I've done some reading about how to begin the Simon Game, but in the meantime, I wanted to take a couple of hours and go through this rather interesting React tutorial I found: [React.js Introduction for People Who Know Just Enough jQuery to Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/). I think I might want to build the Simon game in React.
+
+**Thoughts:** I am determined to keep going even when I falter -- primarily due to work -- and miss days.
+
+**Links to work:**
+[JS Bin for React Tutorial](http://jsbin.com/xuxopu/edit?js,output)
+
 ### Day 45: April 12, 2017
 
 **Today's Progress**: I finished the Tic Tac Toe game and uploaded it to CodePen. Now, it's on to the Simon game.
