@@ -1,6 +1,15 @@
 # 100 Days Of Code - Captain's Log
 
-### Day 46: April 12, 2017
+### Day 47: April 18, 2017
+
+**Today's Progress**: I built a "Tweet box" with React!
+
+**Thoughts:** This tutorial began making sense to me when I got close to the end. LOL
+
+**Links to work:**
+[JS Bin for React Tutorial](http://jsbin.com/xuxopu/edit?js,output)
+
+### Day 46: April 17, 2017
 
 **Today's Progress**: I've done some reading about how to begin the Simon Game, but in the meantime, I wanted to take a couple of hours and go through this rather interesting React tutorial I found: [React.js Introduction for People Who Know Just Enough jQuery to Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/). I think I might want to build the Simon game in React.
 
