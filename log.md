@@ -1,5 +1,15 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 48: April 29, 2017
+
+**Today's Progress**: After much procrastination, I began work on my Simon game, which is the last project I need to complete to get my Free Code Camp front-end dev certificate.
+
+**Thoughts:** I am struggling to get my coding in while working my part-time job and running my business. I need better time management.
+
+**Links to work:**
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
+
 ### Day 47: April 18, 2017
 
 **Today's Progress**: I built a "Tweet box" with React!
