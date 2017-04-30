@@ -1,5 +1,13 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 49: April 30, 2017
+
+**Today's Progress**: I finished the HTML and CSS for my Simon game. I had to tear down the CSS because the controls weren't lining up properly. Now, I have them lined up more evenly than the FCC example does!
+
+**Thoughts:** I don't like the on-off switch in the FCC example, which is made to look like the switch on the real Simon game. I find it very confusing to use on a computer, so I'm using Bootstrap buttons to turn the game on and off, like I did for my Tic Tac Toe game. I think that's more user-friendly for a computer version of this game.
+**Links to work:**
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
 ### Day 48: April 29, 2017
 
 **Today's Progress**: After much procrastination, I began work on my Simon game, which is the last project I need to complete to get my Free Code Camp front-end dev certificate.
