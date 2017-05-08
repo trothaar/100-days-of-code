@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 50: May 7, 2017
+
+**Today's Progress**: I ripped apart my HTML and CSS because I really hated how the game looked. I chose a far more minimalist design. I also began work on the JavaScript.
+
+**Thoughts:** It's taken me four months to get halfway through my "100 Days," but I'm going to keep going. It's difficult to balance this with full-time work, but it can be done.
+
+**Links to work:**
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
 ### Day 49: April 30, 2017
 
 **Today's Progress**: I finished the HTML and CSS for my Simon game. I had to tear down the CSS because the controls weren't lining up properly. Now, I have them lined up more evenly than the FCC example does!
