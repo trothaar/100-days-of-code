@@ -4,7 +4,7 @@
 
 **Today's Progress**: Continued work on my Simon game, primarily on the JavaScript. I also made a couple of minor adjustments to the classes and ID's in the HTML to make it easier to manipulate the DOM.
 
-**Thoughts:** This is a difficult challenge because of the interactivity this game has to have; it's way more involved than the Tic Tac Toe game.
+**Thoughts:** This is a difficult challenge because of the interactivity this game has to have; it's way more involved than the Tic Tac Toe game. However, I was able to repurpose some of the Tic Tac Toe code.
 
 **Links to work:**
 [My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
