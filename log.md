@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 52: May 9, 2017
+
+**Today's Progress**: Continued work on my Simon game. The game now "lights up" the game tiles and plays the corresponding sound when the user clicks on them. The next step will be to have Simon light up tiles and play sounds.
+
+**Thoughts:** I was going to use setInterval, but I found a thread on the FCC boards where someone said that using setTimeout was easier. I'm glad I found that, because I was able to repurpose the example they gave and make it work in my version.
+
+**Links to work:**
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
 ### Day 51: May 8, 2017
 
 **Today's Progress**: Continued work on my Simon game, primarily on the JavaScript. I also made a couple of minor adjustments to the classes and ID's in the HTML to make it easier to manipulate the DOM.
