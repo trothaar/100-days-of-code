@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 51: May 8, 2017
+
+**Today's Progress**: Continued work on my Simon game, primarily on the JavaScript. I also made a couple of minor adjustments to the classes and ID's in the HTML to make it easier to manipulate the DOM.
+
+**Thoughts:** This is a difficult challenge because of the interactivity this game has to have; it's way more involved than the Tic Tac Toe game.
+
+**Links to work:**
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
 ### Day 50: May 7, 2017
 
 **Today's Progress**: I ripped apart my HTML and CSS because I really hated how the game looked. I chose a far more minimalist design. I also began work on the JavaScript.
