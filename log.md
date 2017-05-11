@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 53: May 10, 2017
+
+**Today's Progress**: Continued work on my Simon game. I think I have the function controlling Simon's moves pretty much down; the user move one is more complex, as I have to compare the user moves to Simon's moves and generate error messages and/or restart the game as appropriate. I also need to set the game to end after 20 successful rounds.
+
+**Thoughts:** I'm really happy I've gotten this far. I had despaired over this particular project.
+
+**Links to work:**
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
 ### Day 52: May 9, 2017
 
 **Today's Progress**: Continued work on my Simon game. The game now "lights up" the game tiles and plays the corresponding sound when the user clicks on them. The next step will be to have Simon light up tiles and play sounds.
