@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 54: May 16, 2017
+
+**Today's Progress**: Kept pecking away at the Simon game.
+
+**Thoughts:** Little by little, it's coming together. I need to work on the user's turn function so that it sends the game back to Simon to generate the next set of moves.
+
+**Links to work:**
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
 ### Day 53: May 10, 2017
 
 **Today's Progress**: Continued work on my Simon game. I think I have the function controlling Simon's moves pretty much down; the user move one is more complex, as I have to compare the user moves to Simon's moves and generate error messages and/or restart the game as appropriate. I also need to set the game to end after 20 successful rounds.
