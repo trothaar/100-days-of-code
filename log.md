@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 55: May 17, 2017
+
+**Today's Progress**: Kept pecking away at the Simon game. I didn't get very far, but I pecked away at it.
+
+**Thoughts:** I really wish I were immersed in this all day instead of struggling to learn it when I'm not working, but I have to keep going, even if it takes me another month to figure out this game.
+
+**Links to work:**
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
 ### Day 54: May 16, 2017
 
 **Today's Progress**: Kept pecking away at the Simon game.
