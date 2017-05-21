@@ -1,5 +1,14 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 56: May 20, 2017
+
+**Today's Progress**: I think I've finally finished this bastard game. I can't believe it. I almost went to bed in despair, then came back to the computer to check one more thing. That one thing was the problem!
+
+**Thoughts:** I want to add some instructions, as mine is a bit different than the FCC model. For example, if a user makes a mistake, they get only two additional tries. Also, strict mode cannot be entered during game play, only at the beginning.
+
+**Links to work:**
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
 ### Day 55: May 17, 2017
 
 **Today's Progress**: Kept pecking away at the Simon game. I didn't get very far, but I pecked away at it.
