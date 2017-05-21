@@ -1,5 +1,15 @@
 # 100 Days Of Code - Captain's Log
 
+### Day 57: May 21, 2017
+
+**Today's Progress**: I finally finished my Simon game and claimed my FCC front-end dev certificate!
+
+**Thoughts:** This morning, I learned how to make a modal box using Bootstrap; I used it to add instructions and rules to my game. Next up, I'm going to start [this Udemy course](https://www.udemy.com/learn-web-development-complete-step-by-step-guide-to-success/learn/v4/content) that I "bought" for free with a coupon a couple of weeks ago, so that I can learn the back-end stuff that FCC doesn't have tutorials for yet, like React, as well as the things FCC does not cover, like PHP and mySQL. It looks like I'll need to learn Sass and some other things, too, but I'm taking it one step at a time.
+
+**Links to work:**
+[My FCC Simon Game on CodePen](https://codepen.io/teresarothaar/full/wdQXBd/)
+[My FCC Simon Game Repo](https://github.com/trothaar/fcc-simon-game)
+
 ### Day 56: May 20, 2017
 
 **Today's Progress**: I think I've finally finished this bastard game. I can't believe it. I almost went to bed in despair, then came back to the computer to check one more thing. That one thing was the problem!
