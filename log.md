@@ -1,5 +1,9 @@
 # 100 Days Of Code - Captain's Log
 
+### Authors' Note
+
+Shortly after I completed my Simon game, I was diagnosed with breast cancer. I have had to suspend my participation in this challenge due to having to simultaneously concentrate on my treatments and on continuing to run my existing business/make money. I am getting surgery soon, after which I hope to recommence this.
+
 ### Day 57: May 21, 2017
 
 **Today's Progress**: I finally finished my Simon game and claimed my FCC front-end dev certificate!
