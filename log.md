@@ -1,5 +1,9 @@
 # 100 Days Of Code - Captain's Log
 
+### Update - November 30, 2017
+
+I have finally completed active treatment and can recommit to finishing what I started. Since it has been so long, I'm starting over again. This time, I'm using the short log version. [See my new Captain's Log here.](r1-log.md)
+
 ### Authors' Note
 
 Shortly after I completed my Simon game, I was diagnosed with breast cancer. I have had to suspend my participation in this challenge due to having to simultaneously concentrate on my treatments and on continuing to run my existing business/make money. I am getting surgery soon, after which I hope to recommence this.
