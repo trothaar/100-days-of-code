@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Teresa Rothaar]
 
-The log of my #100DaysOfCode challenge. Started on [November 29, 2017].
+The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Log
 
