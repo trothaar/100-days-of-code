@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 ## Captain's Log
 
 ### R1D6 - December 4, 2017
-Continued with React from the Ground Up. Finished the state build challenge and took it one step further; I added a RESET button so that users can set the counter back to zero.
+Continued with React from the Ground Up. Finished the state build challenge and took it one step further; I added a RESET button so that users can set the counter back to zero. The finished product can be seen [here on CodePen.](https://codepen.io/teresarothaar/full/GOeYxy/) It's not much to look at, but it's a start!
 
 ### R1D5 - December 3, 2017
 Continued with React from the Ground Up. Began preliminary work on the state build challenge (counter); outlined how to set up the app.
