@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D8 - December 6, 2017
+Continued with React from the Ground Up. Finished the videos about the component lifecycle and began learning about ES6. I like ES6; it seems to be more straightforward.
+
 ### R1D7 - December 5, 2017
 Continued with React from the Ground Up. Learned about a few ways to refactor my counter code and make it better and more reusable. Also started learning about stateless functional components and the component lifecycle. There's a lot to take in; I'm going to have to code a bunch of projects to understand it all.
 
