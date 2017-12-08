@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D9 - December 7, 2017
+Continued with React from the Ground Up. I realized that I had inadvertently not watched one of the component lifecycle videos, so I went through that one. Next is my ES6 build challenge.
+
 ### R1D8 - December 6, 2017
 Continued with React from the Ground Up. Finished the videos about the component lifecycle and began learning about ES6. I like ES6; it seems to be more straightforward.
 
