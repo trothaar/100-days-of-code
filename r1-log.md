@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D10 - December 8, 2017
+Continued with React from the Ground Up. Refactored my counter program to make the components reusable, then began work on my ES6 build challenge, which involves taking my counter and refactoring it to use ES6.
+
 ### R1D9 - December 7, 2017
 Continued with React from the Ground Up. I realized that I had inadvertently not watched one of the component lifecycle videos, so I went through that one. Next is my ES6 build challenge.
 
