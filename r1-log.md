@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
-### R1D11 - December 9, 2017
+### R1D12 - December 10, 2017
 Continued with React from the Ground Up. Made some more changes to my counter for ES6 best practices and watched video on higher-order components.
 
 ### R1D11 - December 9, 2017
