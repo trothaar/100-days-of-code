@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D13 - December 11, 2017
+Continued with React from the Ground Up. Watched the 1st video about installing NodeJS and Webpack, which I'll need for the course projects. I'll definitely need to watch this again tomorrow, as it's the end of a long day.
+
 ### R1D12 - December 10, 2017
 Continued with React from the Ground Up. Made some more changes to my counter for ES6 best practices and watched video on higher-order components.
 
