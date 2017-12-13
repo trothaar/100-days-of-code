@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D14 - December 12, 2017
+Continued with React from the Ground Up. Managed to install NodeJS and got a crash course on the Windows Command Line. Couldn't get my NodeJS server running; it appears I didn't install all of the dependencies properly. I'm going to start over again tomorrow.
+
 ### R1D13 - December 11, 2017
 Continued with React from the Ground Up. Watched the 1st video about installing NodeJS and Webpack, which I'll need for the course projects. I'll definitely need to watch this again tomorrow, as it's the end of a long day.
 
