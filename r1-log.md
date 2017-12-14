@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D15 - December 13, 2017
+I figured out what happened last night. I was working off of a OneDrive folder, and OneDrive flipped out over all of the dependency files that I tried to install. I just switched from Mac to PC earlier this year and am still getting used to it. I put everything on my local drive and started all over again. This time, I was able to get Webpack installed and a local server running. I ran into a couple of problems along the way, but I figured them out on my own! Tomorrow, I'll start building React projects.
+
 ### R1D14 - December 12, 2017
 Continued with React from the Ground Up. Managed to install NodeJS and got a crash course on the Windows Command Line. Couldn't get my NodeJS server running; it appears I didn't install all of the dependencies properly. I'm going to start over again tomorrow.
 
