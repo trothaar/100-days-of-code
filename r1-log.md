@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D16 - December 14, 2017
+Didn't get anywhere near as much done as I did yesterday, but I did start the first project in the React from the Ground Up course, a JSX transformer.
+
 ### R1D15 - December 13, 2017
 I figured out what happened last night. I was working off of a OneDrive folder, and OneDrive flipped out over all of the dependency files that I tried to install. I just switched from Mac to PC earlier this year and am still getting used to it. I put everything on my local drive and started all over again. This time, I was able to get Webpack installed and a local server running. I ran into a couple of problems along the way, but I figured them out on my own! Tomorrow, I'll start building React projects.
 
