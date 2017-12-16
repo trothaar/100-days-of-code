@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D17 - December 16, 2017
+Finished JSX Transformer video in React from the Ground Up. Wrestled with Webpack. Was stumped until I Googled the error message and found a solution on StackOverflow. I should have started with Googling the error message; I would have saved a lot of time.
+
 ### R1D16 - December 14, 2017
 Didn't get anywhere near as much done as I did yesterday, but I did start the first project in the React from the Ground Up course, a JSX transformer.
 
