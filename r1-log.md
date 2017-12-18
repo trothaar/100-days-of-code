@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D18 - December 17, 2017
+Continued React from the Ground Up. Learned about Create React App, which was a game-changer for me. I absolutely hate Webpack. Began the next series of videos, which involve building apps that work with the Poke Dashboard API.
+
 ### R1D17 - December 16, 2017
 Finished JSX Transformer video in React from the Ground Up. Wrestled with Webpack. Was stumped until I Googled the error message and found a solution on StackOverflow. I should have started with Googling the error message; I would have saved a lot of time.
 
