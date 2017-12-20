@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D20 - December 19, 2017
+Continued React from the Ground Up. Finished videos 34 & 35 on the Poke Dashboard API. Learned how to use React-Bootstrap.
+
 ### R1D19 - December 18, 2017
 Continued React from the Ground Up. Finished the first video tutorial working with the Poke Dashboard API. I ran into a problem -- the API URL provided in the video was no longer valid -- and was able to figure it out and fix it myself. I feel like I know nothing, but since I could do that, I suppose I know something.
 
