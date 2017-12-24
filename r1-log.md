@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D22 - December 23, 2017
+Poked around the new challenges on Free Code Camp Beta. After finding a bunch of errors that others had already encountered, I submitted a new issue to Github.
+
 ### R1D21 - December 21, 2017
 Missed yesterday, but made up for it today by coding for about three hours. Continued React from the Ground Up. Finished video 34 on the Poke Dashboard API. Kept getting a JSON.parse error. Tore my hair out trying to figure it out, then finally Googled it and found an answer on StackOverflow suggesting that I look at the network console. I found that it was a typo in my code. Should have just Googled the error to begin with.
 
