@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D23 - December 26, 2017
+Did some more QA work on the Free Code Camp Beta. Worked through more of React from the Ground Up.
+
 ### R1D22 - December 23, 2017
 Poked around the new challenges on Free Code Camp Beta. After finding a bunch of errors that others had already encountered, I submitted a new issue to Github.
 
