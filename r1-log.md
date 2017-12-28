@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D24 - December 27, 2017
+1) Worked through some of the npm challenges on the Free Code Camp Beta. Learned more about package.json, which I was introduced to in the React from the Ground Up Course.
+2) Completed another lesson in React from the Ground Up; learned about the React Bootstrap Modal feature.
+
 ### R1D23 - December 26, 2017
 Did some more QA work on the Free Code Camp Beta. Worked through more of React from the Ground Up.
 
