@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D25 - December 29, 2017
+Completed the Pokemon Dashboard project in React from the Ground Up. Ran into a lot of problems because the tutorial was based on React 15, and I had set the dependency for 16. I had to tell my package.json file to use 15, delete the node files, clear the npm cache, reinstall everything, and deal with some additional error messages. It took four hours, but I figured everything out and finished.
+
 ### R1D24 - December 27, 2017
 1) Worked through some of the npm challenges on the Free Code Camp Beta. Learned more about package.json, which I was introduced to in the React from the Ground Up Course.
 2) Completed another lesson in React from the Ground Up; learned about the React Bootstrap Modal feature.
