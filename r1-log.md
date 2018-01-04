@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D29 - January 3, 2018
+I decided to finish the React from the Ground Up course before moving on to a project, or at least try to finish it concurrently, so I worked through the next Redux video.
+
 ### R1D28 - January 2, 2018
 Watched some of the Redux videos on React from the Ground Up and poked around the Free Code Camp Beta React challenges. I think I've gone through enough tutorials and need to dig into a project.
 
