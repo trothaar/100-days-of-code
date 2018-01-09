@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D32 - January 8, 2018
+Started working through the official React tutorial and building a Tic Tac Toe game.
+
 ### R1D31 - January 6, 2018
 Watched another Redux video on React from the Ground Up.
 
