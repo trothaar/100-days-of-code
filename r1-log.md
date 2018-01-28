@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D35 - January 28, 2018
+Finished the Week 1 assignments in the Building Web Applications in PHP Coursera course. Learned about the request-response cycle. Weeks 2 and 3 are a review of HTML and CSS, so I'll probably blow through those quickly.
+
 ### R1D34 - January 27, 2018
 Starting over again after falling off the wagon for a while. I've been struggling because my ultimate goal is to get into the technical aspects of cyber security. Currently, I'm a cyber security copywriter; I don't want to do this forever. I've been trying to figure out how to get from where I am now, to where I want to go. Everyone I ask gives me different advice, and some of it is not realistic for me; I can't afford to work unpaid internships, for example.
 
