@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
-### R1D33 - January 27, 2018
+### R1D34 - January 27, 2018
 Starting over again after falling off the wagon for a while. I've been struggling because my ultimate goal is to get into the technical aspects of cyber security. Currently, I'm a cyber security copywriter; I don't want to do this forever. I've been trying to figure out how to get from where I am now, to where I want to go. Everyone I ask gives me different advice, and some of it is not realistic for me; I can't afford to work unpaid internships, for example.
 
 I noticed that Dr. Chuck from UM has a new specialization on Coursera on building web apps in PHP. These courses are geared more towards back-end web development, which appears to be the path I should take if my goal is to secure websites and apps as opposed to making sites look pretty. I previously took his Python course and enjoy his instruction style. I signed up for the course and committed to it today.
