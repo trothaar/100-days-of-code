@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D37 - January 30, 2018
+Continued with the Building Web Applications in PHP Coursera course. Installed MAMP, watched all of the Week 5 intro to PHP videos, and took and passed the week 5 quiz.
+
 ### R1D36 - January 29, 2018
 Blew through Weeks 2 and 3 of the course because they were HTML & CSS reviews; I have a good grasp of HTML/CSS. Now I need to install MAMP and begin the PHP portion of the course.
 
