@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D38 - January 31, 2018
+Continued with the Building Web Applications in PHP Coursera course. Learned about PHP arrays; took the week 6 quiz and worked on the assignment. Need to install ngrok to I can run it through the auto-grader.
+
 ### R1D37 - January 30, 2018
 Continued with the Building Web Applications in PHP Coursera course. Installed MAMP, watched all of the Week 5 intro to PHP videos, and took and passed the week 5 quiz.
 
