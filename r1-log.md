@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D39 - February 1, 2018
+Continued with the Building Web Applications in PHP Coursera course. Installed ngrok and ran the "guessing game" assignment through the auto-grader. Learned about PHP functions; took the week 7 quiz.
+
 ### R1D38 - January 31, 2018
 Continued with the Building Web Applications in PHP Coursera course. Learned about PHP arrays; took the week 6 quiz and worked on the assignment. Need to install ngrok so I can run it through the auto-grader.
 
