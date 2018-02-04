@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D40 - February 2, 2018
+Continued with the Building Web Applications in PHP Coursera course. Began preliminary work on the Password Cracker assignment.
+
 ### R1D39 - February 1, 2018
 Continued with the Building Web Applications in PHP Coursera course. Installed ngrok and ran the "guessing game" assignment through the auto-grader. Learned about PHP functions; took the week 7 quiz.
 
