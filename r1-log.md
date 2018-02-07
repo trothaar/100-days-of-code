@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D42 - February 6, 2018
+Continued with the Building Web Applications in PHP course. Learned about how PHP works with HTML forms, the differences between GET and POST, and the MVC.
+
 ### R1D41 - February 5, 2018
 Continued with the Building Web Applications in PHP course. Finished the Password Cracker assignment!
 
