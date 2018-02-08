@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D43 - February 7, 2018
+Continued with the Building Web Applications in PHP course. Began preliminary work on the Rock-Paper-Scissors game.
+
 ### R1D42 - February 6, 2018
 Continued with the Building Web Applications in PHP course. Learned about how PHP works with HTML forms, the differences between GET and POST, and the MVC.
 
