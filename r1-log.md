@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D45 - February 9, 2018
+Completed the Rock-Paper-Scissors game, which concludes the Building Web Applications in PHP course. Now it's on to the next course in the series, which is Introduction to SQL.
+
 ### R1D44 - February 8, 2018
 Continued with the Building Web Applications in PHP course. Continued work on the Rock-Paper-Scissors game. Dug a little deeper into the cybersecurity aspects and learned how salted password hashing works.
 
