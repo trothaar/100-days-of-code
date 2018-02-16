@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D48 - February 15, 2018
+Completed the Introduction to SQL course. Constructed and ran queries on a small many-to-many database. Next up is the Building Database Applications in PHP course.
+
 ### R1D47 - February 14, 2018
 Nearly done with the Introduction to SQL course. A lot of it is about relational DB design and data models, which I learned about during my 2nd master's, so it's a review for me. Constructed two simple mySQL databases using MAMP.
 
