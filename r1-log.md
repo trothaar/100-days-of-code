@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D50 - February 17, 2018
+Continued the Building Database Applications in PHP course. Began learning about how to use PHP to communicate with MySQL databases. Learned a bunch of really great cyber security related things, like how SQL injections happen and how to avoid them.
+
 ### R1D49 - February 16, 2018
 Began the Building Database Applications in PHP course. Learned about the basics of OOP in PHP.
 
