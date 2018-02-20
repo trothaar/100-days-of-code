@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D52 - February 19, 2018
+Continued the Building Database Applications in PHP course; began preliminary work on the autos database assignment.
+
 ### R1D51 - February 18, 2018
 Continued the Building Database Applications in PHP course and learning about using PHP to communicate with MySQL databases.
 
