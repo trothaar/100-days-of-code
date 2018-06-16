@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D54 - June 15, 2018
+Rebooted again after getting distracted with issues involving my marketing business. Decided to check out the new Free Code Camp curriculum and found lots of new stuff. Finished up the new basic CSS challenges & started on the Applied Visual Design challenges. 
+
 ### R1D53 - February 27, 2018
 Continued the Building Database Applications in PHP course; began working on the autos database assignment. Had to review some of the videos.
 
