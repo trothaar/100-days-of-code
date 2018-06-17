@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D55 - June 16, 2018
+Continued with the Free Code Camp Applied Visual Design challenges; learned about CSS animations.
+
 ### R1D54 - June 15, 2018
 Rebooted again after getting distracted with issues involving my marketing business. Decided to check out the new Free Code Camp curriculum and found lots of new stuff. Finished up the new basic CSS challenges & started on the Applied Visual Design challenges. 
 
