@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D58 - June 19, 2018
+Completed the Free Code Camp CSS Flexbox challenges. Next up are the CSS Grid challenges!
+
 ### R1D57 - June 18, 2018
 Completed the Free Code Camp Applied Accessibility challenges and the Responsive Design challenges; began the CSS Flexbox challenges.
 
