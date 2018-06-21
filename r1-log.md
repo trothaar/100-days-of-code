@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D59 - June 20, 2018
+Completed the Free Code Camp CSS Grid challenges. Now onto the front-end projects. I previously completed some of these for the "legacy" front-end cert, but I want to redo them using the additional CSS skills taught in the new program.
+
 ### R1D58 - June 19, 2018
 Completed the Free Code Camp CSS Flexbox challenges. Next up are the CSS Grid challenges!
 
