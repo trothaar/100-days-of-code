@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 30, 2017].
 
 ## Captain's Log
 
+### R1D61 - June 26, 2018
+Built my new [Free Code Camp tribute page](https://codepen.io/teresarothaar/full/LrJwgy/); I decided to use Bootstrap. It had been quite some time since I touched Bootstrap.
+
 ### R1D60 - June 25, 2018
 Started doing a new tribute page for the new Free Code camp cert. I laid out the skeleton; now I need to dress it up with CSS.
 
